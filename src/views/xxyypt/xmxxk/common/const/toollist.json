@@ -1,0 +1,44 @@
+[
+	{
+		"id" : "test2",
+		"title": "通知公告",
+		"icon": "tongzhi.png",
+		"describe":"",
+		"target":""
+	},
+	{
+		"id" : "test1",
+		"title": "项目单位分布",
+		"icon": "duijizhutu.png",
+		"describe":"",
+		"target":""
+	},
+	{
+		"id" : "test3",
+		"title": "项目类型统计",
+		"icon": "bingtu.png",
+		"describe":"",
+		"target":""
+	},
+	{
+		"id" : "test4",
+		"title": "在建项目进度",
+		"icon": "duijizhutu.png",
+		"describe":"",
+		"target":""
+	},
+	{
+		"id" : "test5",
+		"title": "承包商信息",
+		"icon": "duijizhutu.png",
+		"describe":"",
+		"target":""
+	},
+	{
+		"id" : "test6",
+		"title": "诚信考核得分",
+		"icon": "duijizhutu.png",
+		"describe":"",
+		"target":""
+	}
+]

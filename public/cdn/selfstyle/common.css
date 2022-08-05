@@ -1,0 +1,59 @@
+.avue-crud__pagination{
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+    display:none;
+  }
+  .avue-tags{
+    margin-bottom: 5px !important;
+  }
+  .avue-view{
+    padding-bottom: 0px !important;
+  }
+  .el_input_search{
+    margin-right: 8px;
+    margin-bottom: 8px;
+    padding: 3px;
+    width:auto !important;
+    vertical-align: top !important;
+  }
+  .avue-crud__menu{
+    margin-bottom: 0px !important;
+  }
+  .avue-crud .el-table th{
+    /* #909399 !important; */
+    color: #080808 !important;
+    font-weight: 600;
+  }
+  /*elementui confirm框 按钮互换*/
+  .btn-custom-cancel {
+    float: right;
+    margin-left: 10px;
+  }
+  /*全局背景色*/
+  .avue-contail{
+    background: #f5f7f861 !important;
+  }
+  /*截图按钮位置*/
+  .screenshot{
+    left: 10px !important;
+    width: 50px;
+  }
+  /*自定义布局样式*/
+  .el-container{
+    height: 100%; 
+    /* border: 1px solid #eee; */
+    border: 1px solid #f5f7fa;
+    border-top:none;
+  }
+
+  /* 全局盒子样式 */
+  .box-card{
+    width: 100% !important;
+    height:400px;
+    border-radius: 4px !important;
+    border: 1px solid #ebeef5 !important;
+    background-color: #fff !important;
+    overflow: hidden !important;
+    color: #303133 !important;
+    transition: .3s !important;
+  }

@@ -1,0 +1,43 @@
+﻿[
+	{
+		"id": "1201",
+		"text": "练习测试",
+		"iconCls": "el-icon-menu",
+		"bigIconCls": "icon-large-picture",
+		"children": [
+            {
+                "id": 120102, 
+                "pid": "1201", 
+                "text": "测试页面", 
+                "iconCls": "el-icon-document",
+                "attributes": {
+                    "href": "/test/test2"
+                }
+            }
+        ]
+	},{
+        "id": 120103, 
+        "pid": "1201", 
+        "text": "测试页面", 
+        "iconCls": "el-icon-document",
+        "attributes": {
+            "href": "/test"
+        }
+	},{
+		"id": "12",
+		"text": "练习代码",
+		"iconCls": "el-icon-menu",
+		"bigIconCls": "icon-large-picture",
+		"children": [
+            {
+                "id": 120102, 
+                "pid": "1201", 
+                "text": "表格设计器", 
+                "iconCls": "el-icon-document",
+                "attributes": {
+                    "href": "https://crud.avuejs.com/"
+                }
+            }
+        ]
+	}
+]

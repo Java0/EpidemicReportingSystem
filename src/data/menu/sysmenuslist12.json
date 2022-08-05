@@ -1,0 +1,275 @@
+[
+    {
+        "id": "1201", 
+        "pid": "12", 
+        "text": "首页", 
+        "iconCls": "el-icon-menu",
+        "children": [
+            {
+                "id": 120102, 
+                "pid": "1201", 
+                "text": "首页", 
+                "iconCls": "el-icon-menu",
+                "attributes": {
+                    "href": "/wel"
+                }
+            }
+        ]
+    },{
+    	"id": "1202", 
+        "pid": "12", 
+        "text": "教程", 
+        "children": [
+            {
+                "id": 120201, 
+                "pid": "1202", 
+                "text": "bladex官网", 
+                "attributes": {
+                    "href": "https://bladex.vip/#/"
+                }
+            },
+            {
+            	"id": 120202, 
+                "pid": "1202", 
+                "text": "avuex官网", 
+                "attributes": {
+                    "href": "https://avuex.avue.top"
+                }
+            },
+            {
+            	"id": 120203, 
+                "pid": "1202", 
+                "text": "审核节点", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },
+            {
+            	"id": 120204, 
+                "pid": "1202", 
+                "text": "工作流定制", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },
+            {
+            	"id": 120205, 
+                "pid": "1202", 
+                "text": "流程监控", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            }
+        ]
+    },{
+    	"id": "1203", 
+        "pid": "12", 
+        "text": "主数据字典", 
+        "children": [
+            {
+                "id": 120301, 
+                "pid": "1203", 
+                "text": "主数据配置", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },{
+            	"id": 120302, 
+                "pid": "1203", 
+                "text": "主数据录入", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },{
+            	"id": 120303, 
+                "pid": "1203", 
+                "text": "主数据发布", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            }
+        ]
+    },{
+    	"id": "1204", 
+        "pid": "12", 
+        "text": "数据授权", 
+        "children": [
+            {
+                "id": 120401, 
+                "pid": "1204", 
+                "text": "字典配置", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },{
+            	"id": 120402, 
+                "pid": "1204", 
+                "text": "业务主表", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },{
+            	"id": 120403, 
+                "pid": "1204", 
+                "text": "权限分组", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },{
+            	"id": 120404, 
+                "pid": "1204", 
+                "text": "分组授权", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },{
+            	"id": 120405, 
+                "pid": "1204", 
+                "text": "数据授权", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            }
+        ]
+    },{
+    	"id": "1205", 
+        "pid": "12", 
+        "text": "报表定制", 
+        "children": [
+            {
+                "id": 120501, 
+                "pid": "1205", 
+                "text": "报表信息维护", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },{
+            	"id": 120502, 
+                "pid": "1205", 
+                "text": "采集模板数据源维护", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },{
+            	"id": 120503, 
+                "pid": "1205", 
+                "text": "采集模板维护", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },{
+            	"id": 120504, 
+                "pid": "1205", 
+                "text": "数据源维护", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },{
+            	"id": 120505, 
+                "pid": "1205", 
+                "text": "元数据维护", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            },{
+            	"id": 120506, 
+                "pid": "1205", 
+                "text": "展示模板维护", 
+                "attributes": {
+                    "href": "/test/test"
+                }
+            }
+        ]
+    },{
+    	"id": "1206", 
+        "pid": "12", 
+        "text": "表单定制", 
+        "children": [
+            {
+                "id": 120601, 
+                "pid": "1206", 
+                "text": "单据类型维护", 
+                "attributes": {
+                    "href": "sys/common/mbdz/djlxwh/common_mbdz_djlxwh_main.jsp"
+                }
+            },{
+            	"id": 120602, 
+                "pid": "1206", 
+                "text": "单据数据源", 
+                "attributes": {
+                    "href": "sys/common/mbdz/djsjy/common_mbdz_djsjy_main.jsp"
+                }
+            },{
+            	"id": "BDDZ120603", 
+                "pid": "1206", 
+                "text": "模板定义", 
+                "attributes": {
+                    "href": "sys/common/mbdz/mbdy/common_mbdz_mbdy_main.jsp"
+                }
+            },{
+            	"id": 120604, 
+                "pid": "1206", 
+                "text": "模板数据字典", 
+                "attributes": {
+                    "href": "sys/common/mbdz/mbsjzd/common_mbdz_mbsjzd_main.jsp"
+                }
+            },{
+            	"id": 120605, 
+                "pid": "1206", 
+                "text": "脚本库维护", 
+                "attributes": {
+                    "href": "sys/common/mbdz/jbkwh/common_mbdz_jbkwh_main.jsp"
+                }
+            }
+        ]
+    },{
+        "id": "1207", 
+        "pid": "12", 
+        "text": "打印定制", 
+        "children": [
+            {
+                "id": 120701, 
+                "pid": "1207", 
+                "text": "单据类型维护", 
+                "attributes": {
+                    "href": "sys/common/print/djlx/common_print_djlxwh_main.jsp"
+                }
+            },{
+            	"id": 120702, 
+                "pid": "1207", 
+                "text": "单据数据源", 
+                "attributes": {
+                    "href": "sys/common/print/djsjy/common_print_djsjy_main.jsp"
+                }
+            },{
+            	"id": 120703, 
+                "pid": "1207", 
+                "text": "对应配置", 
+                "attributes": {
+                    "href": "sys/common/print/dypz/common_print_dypz_main.jsp"
+                }
+            },{
+            	"id": "PDFDY120704", 
+                "pid": "1207", 
+                "text": "模板定义", 
+                "attributes": {
+                    "href": "sys/common/print/mbdz/common_print_mbdz_main.jsp"
+                }
+            }
+        ]
+    },{
+        "id": "1208", 
+        "pid": "12", 
+        "text": "定时任务", 
+        "children": [
+            {
+                "id": 120801, 
+                "pid": "1208", 
+                "text": "定时任务维护", 
+                "attributes": {
+                    "href": "common/timer/common_timer_main.html"
+                }
+            }
+        ]
+    }
+]

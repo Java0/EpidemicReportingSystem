@@ -1,0 +1,55 @@
+{
+  "name": "vuebase",
+  "version": "2.5.4",
+  "private": true,
+  "scripts": {
+    "dev": " vue-cli-service serve",
+    "build": " vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "analyz": "npm_config_report=true npm run build",
+    "test:unit": "vue-cli-service test:unit",
+    "test:e2e": "vue-cli-service test:e2e",
+    "start": "node index.js",
+    "server": "nodemon index.js --ignore client"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
+    "classlist-polyfill": "^1.2.0",
+    "element-ui": "^2.13.0",
+    "jquery": "^3.4.1",
+    "js-base64": "^2.5.1",
+    "js-cookie": "^2.2.0",
+    "mockjs": "^1.0.1-beta3",
+    "nprogress": "^0.2.0",
+    "script-loader": "^0.7.2",
+    "vue": "^2.6.10",
+    "vue-axios": "^2.1.2",
+    "vue-i18n": "^8.7.0",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
+    "echarts": "^4.7.0",
+    "vuedraggable": "^2.23.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.1.1",
+    "@vue/cli-plugin-eslint": "^3.1.5",
+    "@vue/cli-service": "^3.1.4",
+    "chai": "^4.1.2",
+    "nuxt": "^2.13.2",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.5.17",
+    "webpack-bundle-analyzer": "^3.0.3",
+    "sass": "^1.32.8"
+  },
+  "lint-staged": {
+    "*.js": [
+      "vue-cli-service lint",
+      "git add"
+    ],
+    "*.vue": [
+      "vue-cli-service lint",
+      "git add"
+    ]
+  }
+}

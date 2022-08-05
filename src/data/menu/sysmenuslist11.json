@@ -1,0 +1,245 @@
+[
+    {
+        "id": "1100", 
+        "pid": "10", 
+        "text": "基础元素", 
+        "children": [
+            {
+                "id": 10000001, 
+                "pid": "1100", 
+                "text": "0001图标规范", 
+                "children": [
+                    {
+                        "id": "110401", 
+                        "pid": "1104", 
+                        "text": "0401弹出窗口-快速查询条件", 
+                        "attributes": {
+                            "href": "main_content"
+                        }
+                    }, 
+                    {
+                        "id": "110402", 
+                        "pid": "1104", 
+                        "text": "0402弹出窗口-树形条件", 
+                        "attributes": {
+                            "href": "demos/sysdemo/04/0402"
+                        }
+                    }, 
+                    {
+                        "id": "110403", 
+                        "pid": "1104", 
+                        "text": "0403弹出窗口-无查询条件", 
+                        "attributes": {
+                            "href": "demos/sysdemo/04/0403"
+                        }
+                    }, 
+                    {
+                        "id": "110404", 
+                        "pid": "1104", 
+                        "text": "0404弹出窗口-综合", 
+                        "attributes": {
+                            "href": "demos/sysdemo/04/0404"
+                        }
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "id": "1101", 
+        "pid": "10", 
+        "text": "主界面", 
+        "children": [
+            {
+                "id": "110101", 
+                "pid": "1101", 
+                "text": "0101初始主界面-居中结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/01/0101"
+                }
+            }, 
+            {
+                "id": "110102", 
+                "pid": "1101", 
+                "text": "0102初始主界面-上下结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/01/0102"
+                }
+            }, 
+            {
+                "id": "110103", 
+                "pid": "1101", 
+                "text": "0103初始主界面-上下结构-多明细", 
+                "attributes": {
+                    "href": "demos/sysdemo/01/0103"
+                }
+            }, 
+            {
+                "id": "110104", 
+                "pid": "1101", 
+                "text": "0104初始主界面-带树形左右结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/01/0104"
+                }
+            }, 
+            {
+                "id": "110105", 
+                "pid": "1101", 
+                "text": "0105初始主界面-左右结构-左收缩", 
+                "attributes": {
+                    "href": "demos/sysdemo/01/0105"
+                }
+            }, 
+            {
+                "id": "110106", 
+                "pid": "1101", 
+                "text": "0106初始主界面-左右结构-右收缩", 
+                "attributes": {
+                    "href": "demos/sysdemo/01/0106"
+                }
+            }, 
+            {
+                "id": "110107", 
+                "pid": "1101", 
+                "text": "0107初始主界面-带复杂查询条件", 
+                "attributes": {
+                    "href": "demos/sysdemo/01/0107"
+                }
+            }
+        ]
+    }, 
+    {
+        "id": "1102", 
+        "pid": "10", 
+        "text": "02表单界面", 
+        "children": [
+            {
+                "id": "110201", 
+                "pid": "1102", 
+                "text": "0201表单界面-弹出-居中结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/02/0201"
+                }
+            }, 
+            {
+                "id": "110202", 
+                "pid": "1102", 
+                "text": "0202表单界面-弹出-上下结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/02/0202"
+                }
+            }, 
+            {
+                "id": "110203", 
+                "pid": "1102", 
+                "text": "0203表单界面-弹出-左右结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/02/0203"
+                }
+            }, 
+            {
+                "id": "110204", 
+                "pid": "1102", 
+                "text": "0204表单界面-选项卡-居中结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/02/0204"
+                }
+            }, 
+            {
+                "id": "110205", 
+                "pid": "1102", 
+                "text": "0205表单界面-选项卡-上下结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/02/0205"
+                }
+            }, 
+            {
+                "id": "110206", 
+                "pid": "1102", 
+                "text": "0206表单界面-选项卡-左右结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/02/0206"
+                }
+            }
+        ]
+    }, 
+    {
+        "id": "1103", 
+        "pid": "10", 
+        "text": "03审核界面", 
+        "children": [
+            {
+                "id": "110301", 
+                "pid": "1103", 
+                "text": "0301审核界面-弹出-居中结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/03/0301"
+                }
+            }, 
+            {
+                "id": "110302", 
+                "pid": "1103", 
+                "text": "0302审核界面-弹出-上下结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/03/0302"
+                }
+            }, 
+            {
+                "id": "110303", 
+                "pid": "1103", 
+                "text": "0303审核界面-弹出-左右结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/03/0303"
+                }
+            }, 
+            {
+                "id": "110304", 
+                "pid": "1103", 
+                "text": "0304审核界面-选项卡-居中结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/03/0304"
+                }
+            }, 
+            {
+                "id": "110305", 
+                "pid": "1103", 
+                "text": "0305审核界面-选项卡-上下结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/03/0305"
+                }
+            }, 
+            {
+                "id": "110306", 
+                "pid": "1103", 
+                "text": "0306审核界面-选项卡-左右结构", 
+                "attributes": {
+                    "href": "demos/sysdemo/03/0306"
+                }
+            }, 
+            {
+                "id": "110307", 
+                "pid": "1103", 
+                "text": "0307审核界面-选项卡-居中结构-操作下", 
+                "attributes": {
+                    "href": "demos/sysdemo/03/0307"
+                }
+            }, 
+            {
+                "id": "110308", 
+                "pid": "1103", 
+                "text": "0308审核界面-选项卡-上下结构-操作下", 
+                "attributes": {
+                    "href": "demos/sysdemo/03/0308"
+                }
+            }, 
+            {
+                "id": "110309", 
+                "pid": "1103", 
+                "text": "0309审核界面-选项卡-左右结构-操作下", 
+                "attributes": {
+                    "href": "demos/sysdemo/03/0309"
+                }
+            }
+        ]
+    }
+]
